@@ -17,3 +17,4 @@ The total stock volume of the stock.
 
 Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
+The files for the result is saved under Repository "YaredHaile/Module-2_VBA_Challenge"
